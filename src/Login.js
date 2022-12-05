@@ -105,6 +105,9 @@ export default function RowAndColumnSpacing(props) {
         <h1 style={{ color: 'rgba(255, 123, 0, 0.973)' }}>Damaged TC52AX hdPhone Replacement
           Form
         </h1>
+           <h1 style={{ color: 'rgba(255, 123, 0, 0.973)' }}>Damaged TC52AX hdPhone Replacement
+          Form
+        </h1>
         <h3 style={{ color: 'rgba(255, 30, 0, 0.753)' }}><i>To replace a stolen device or
           for ordering additional devices,please use Ariba </i></h3>
         <h4 style={{ color: 'rgba(0, 0, 0, 0.699)' }}>Thank you using the TC52AX hdPhone
