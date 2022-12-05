@@ -136,6 +136,20 @@ export default function RowAndColumnSpacing(props) {
           </FormControl>
           <FormControl className={classes.margin}>
             <InputLabel shrink htmlFor="input" className={classes.bootstrapFormLabel}>
+              dsfsfgsdfg<span>*</span>
+            </InputLabel>
+            <InputBase
+              id="input"
+              placeholder="Rachel Testuser03" required
+              onChange={e => { setName(e.target.value) }}
+              classes={{
+                root: classes.bootstrapRoot,
+                input: classes.bootstrapInput,
+              }}
+            />
+  </FormControl>
+          <FormControl className={classes.margin}>
+            <InputLabel shrink htmlFor="input" className={classes.bootstrapFormLabel}>
               Name<span>*</span>
             </InputLabel>
             <InputBase
